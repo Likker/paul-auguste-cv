@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1,requiresActiveX=true">
     
     
-	<title> John Smith :: CV </title>
+	<title> Paul-Auguste Lacave :: CV </title>
 	<meta name="description" content=" add description  ... ">
     
     <!-- /// Favicons ////////  -->
@@ -59,8 +59,8 @@
                         <img src="_content/140x140.png" alt="">
                         
                         <h1>
-                            John Smith
-                            <small>Front End Developer</small>
+                            Paul-Auguste Lacave
+                            <small>Etudiant en programmation</small>
                         </h1>
                         
                     </div><!-- end .cv-section-title -->
