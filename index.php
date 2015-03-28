@@ -138,7 +138,7 @@
 
                         <p class="period">F&eacute;vrier 2015 - Pr&eacute;sent</p>
 
-                        <h3><strong>Path of gladiators </FONT> </a></strong></h3>
+                        <h3><strong>Path of gladiators</strong></h3>
                         <h4>D&eacute;veloppeur réseau Unity 3D</h4>
 
                         <br>
@@ -157,7 +157,7 @@
 
                         <p class="period">D&eacute;cembre 2014 - F&eacute;vrier 2015</p>
 
-                        <h3><strong>The Cube </FONT> </a></strong></h3>
+                        <h3><strong>The Cube </strong></h3>
                         <h4>D&eacute;veloppeur Unity 3D & Sound Designer</h4>
 
                         <br>
@@ -174,7 +174,7 @@
 
                     <div class="cv-item">
 
-                        <p class="period">13 Octobre 2014 - 19 Octobre 2014</p>
+                        <p class="period">Octobre 2014</p>
 
                         <h3><strong> <a href="_projets/arkanoid">Arkanoid</a></strong></h3>
                         <h4>D&eacute;veloppeur Unity 3D </h4>
