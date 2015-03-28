@@ -56,7 +56,7 @@
                     
                     <div class="cv-section-title">
                         
-                        <!-- <img src="_content/140x140.png" alt=""> -->
+                         <img src="" alt="">
                         
                         <h1>
                             Paul-Auguste Lacave
