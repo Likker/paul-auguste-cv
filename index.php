@@ -127,7 +127,7 @@
                     
                     <div class="cv-section-title">
                         
-                        <h2>Experience</h2>
+                        <h2>Exp&eacute;rience</h2>
                         
                     </div><!-- end .cv-section-title -->
                     
@@ -226,7 +226,7 @@
                     
                     <div class="cv-section-title">
                         
-                        <h2>Technical Skills</h2>
+                        <h2>Comp&eacute;tences techniques</h2>
                         
                     </div><!-- end .cv-section-title -->
                     
@@ -235,12 +235,12 @@
                     
                     <div class="cv-item">
                         
-                        <p class="period">Expert, 4 Years</p>
+                        <p class="period">3 Years</p>
                         
                         <div class="fixed">
                         
                             <div class="progress-bar-description text-uppercase">
-                            	Html5 &amp; Css3
+                            	Unity 3D
                                 <span style="left:90%">90%</span>
                             </div><!-- end .progress-bar-description -->
                            
@@ -253,25 +253,22 @@
                         </div>
                         
                         <br class="clear">
-                        
-                        <p class="last">Vestibulum feugiat gravida est nec ultrices. Pellentesque habitant morbi tristique senectus et netus 
-                        et malesuada fames ac turpis egestas. Etiam vel velit quam. Donec quis porta libero.</p>
 
                     </div><!-- end .cv-item -->
                     
                     <div class="cv-item">
                         
-                        <p class="period">Advanced, 2 Years</p>
+                        <p class="period">3 Years</p>
                         
                         <div class="fixed">
                         
                             <div class="progress-bar-description">
-                            	Javascript
-                                <span style="left:73%">73%</span>
+                            	C#
+                                <span style="left:80%">80%</span>
                             </div><!-- end .progress-bar-description -->
                            
                             <div class="progress-bar">  
-                                <span class="progress-bar-outer" data-width="73"> 
+                                <span class="progress-bar-outer" data-width="80">
                                     <span class="progress-bar-inner"></span> 
                                 </span>
                             </div><!-- end .progress-bar -->
@@ -279,21 +276,40 @@
                         </div>
                         
                         <br class="clear">
-                        
-                        <p class="last">Morbi in mi non velit dapibus tincidunt ut vel dolor. Class aptent taciti sociosqu ad litora torquent 
-                        per conubia nostra, per inceptos himenaeos. Morbi elementum urna vitae justo vehicula, in lacinia magna 
-                        ornare. Aenean porttitor, quam quis fermentum consequat.</p>
 
                     </div><!-- end .cv-item -->
-                    
+
+                    <div class="cv-item">
+
+                        <p class="period">1 Year</p>
+
+                        <div class="fixed">
+
+                            <div class="progress-bar-description">
+                                C
+                                <span style="left:70%">70%</span>
+                            </div><!-- end .progress-bar-description -->
+
+                            <div class="progress-bar">
+                                <span class="progress-bar-outer" data-width="70">
+                                    <span class="progress-bar-inner"></span>
+                                </span>
+                            </div><!-- end .progress-bar -->
+
+                        </div>
+
+                        <br class="clear">
+
+                    </div><!-- end .cv-item -->
+
                     <div class="cv-item">
                         
-                        <p class="period">Beginer, 1 Year</p>
+                        <p class="period">1 Year</p>
                         
                         <div class="fixed">
                         
                             <div class="progress-bar-description">
-                            	jQuerry
+                            	C++
                                 <span style="left:60%">60%</span>
                             </div><!-- end .progress-bar-description -->
                            
@@ -306,16 +322,34 @@
                         </div>
                         
                         <br class="clear">
-                        
-                        <p>Nunc imperdiet placerat diam et aliquet. Suspendisse massa neque, rhoncus eget posuere ac, aliquet ut 
-                        mi. Etiam rhoncus placerat lorem eu posuere.</p> 
-
-                        <p class="last">Nunc dignissim commodo urna, eget bibendum nisl vehicula nec. Mauris faucibus erat elit, nec malesuada 
-                        augue varius sit amet. Morbi sit amet scelerisque risus. Duis vulputate, dolor ut mattis aliquam, massa diam 
-                        imperdiet ante, vel viverra tortor risus sit amet eros. </p>
 
                     </div><!-- end .cv-item -->
-                    
+
+                    <div class="cv-item">
+
+                        <p class="period">1 Year</p>
+
+                        <div class="fixed">
+
+                            <div class="progress-bar-description">
+                                Java
+                                <span style="left:50%">50%</span>
+                            </div><!-- end .progress-bar-description -->
+
+                            <div class="progress-bar">
+                                <span class="progress-bar-outer" data-width="50">
+                                    <span class="progress-bar-inner"></span>
+                                </span>
+                            </div><!-- end .progress-bar -->
+
+                        </div>
+
+                        <br class="clear">
+
+                    </div><!-- end .cv-item -->
+
+
+
                 </div><!-- end .span9 -->
             </div><!-- end .cv-section -->
             
@@ -330,18 +364,27 @@
                     
                 </div><!-- end .span3 -->
                 <div class="span9">
-                
+
                 	<div class="cv-item">
                     	
-                        <h3><strong>Boston State Univerity</strong></h3>
-                        <h4>Dual Major, Web Design and English - 3.9 GPA</h4>
-                        
+                        <h3><strong>EPITECH</strong></h3>
+                        <h4>2012 - 2017</h4>
+                        Etudiant en 3ème année à l’EPITECH (école internationale d’expertise en informatique et nouvelles technologies)
                         <br>
                         
-                        <p class="last">Morbi in mi non velit dapibus tincidunt ut vel dolor. Class aptent taciti sociosqu ad litora torquent 
-                        per conubia nostra, per inceptos himenaeos. Morbi elementum urna vitae justo vehicula, in lacinia magna ornare. 
-                        Aenean porttitor, quam quis fermentum consequat, eros lorem imperdiet lorem,.</p>
+                        <p class="last"></p>
                         
+                    </div><!-- end .cv-item -->
+
+                    <div class="cv-item">
+
+                        <h3><strong>Lycée Français de Shanghai</strong></h3>
+                        <h4>2011 - 2012</h4>
+                        Cette terminale en chine m'a permis de connaître un peu plus la culture asiatique.
+                        <br>
+
+                        <p class="last"></p>
+
                     </div><!-- end .cv-item -->
                     
                 </div><!-- end .span9 -->
@@ -369,33 +412,32 @@
 						
 						 <div class="cv-section-title">
                         
-							<h2>Contact Form</h2>
+							<h2>Contactez-moi !</h2>
 							
 						</div><!-- end .cv-section-title -->
 						
-						<p>Consectetur adipiscing elit phasellus non nibh a mi placerat imperdiet. </p>
 						
 						<form class="fixed" id="contact-form"  name="contact-form" method="post" action="_layout/php/send.php"> 
 							<fieldset>
 								
 								<div id="formstatus"></div>
 										
-								<input id="name" type="text" name="name" value="" placeholder="name">
+								<input id="name" type="text" name="name" value="" placeholder="Nom">
 							
-								<input id="email" type="text" name="email" value="" placeholder="address">
+								<input id="email" type="text" name="email" value="" placeholder="Email">
 								
-								<input id="subject" type="text" name="subject" value="" placeholder="subject">
+								<input id="subject" type="text" name="subject" value="" placeholder="Sujet">
 								
-								<textarea id="message" name="message" rows="50" cols="25" placeholder="message"></textarea>
+								<textarea id="message" name="message" rows="50" cols="25" placeholder="Message"></textarea>
 								
-								<input id="submit" type="submit" name="submit" value="Send!">
+								<input id="submit" type="submit" name="submit" value="Envoyer !">
 								   
 							</fieldset>
 						</form>
 						
 					</div><!-- end .cv-contact -->
 			
-                    <h4 class="copyright">&copy; 2014 John Smith. <span class="hidden-phone">All rights reserved.</span></h4>
+                    <h4 class="copyright">&copy; 2015 Paul-Auguste Lacave. <span class="hidden-phone">Tout droits réservés.</span></h4>
                     
                 </div><!-- end .span12 -->
             </div><!-- end .row -->
