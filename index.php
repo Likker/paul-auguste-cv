@@ -56,7 +56,7 @@
                     
                     <div class="cv-section-title">
                         
-                        <img src="_content/140x140.png" alt="">
+                        <!-- <img src="_content/140x140.png" alt=""> -->
                         
                         <h1>
                             Paul-Auguste Lacave
@@ -71,7 +71,8 @@
                     <div class="cv-item">
                         
                         <div class="social-media fixed">
-                            
+                           <!-- 
+
                             <a href="#" class="facebook-icon social-icon">
                                 <i class="fa fa-facebook"></i>
                             </a>
@@ -80,6 +81,8 @@
                                 <i class="fa fa-twitter"></i>
                             </a>
                             
+                           -->
+
                             <a href="#" class="googleplus-icon social-icon">
                                 <i class="fa fa-google-plus"></i>
                             </a>
