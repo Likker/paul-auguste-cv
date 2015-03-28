@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
     
     <!-- /// FontAwesome Icons 4.0.3 ////////  -->
-	<link rel="stylesheet" href="_layout/css/fontawesome/font-awesome.css">
+    <link rel="stylesheet" href="_layout/css/fontawesome/font-awesome.min.css">
     
 	<!-- /// Modernizr ////////  -->
     <script src="_layout/js/modernizr-2.6.2.min.js"></script>
@@ -81,7 +81,7 @@
                         
                         <p class="last">
                             <span class="hidden-tablet">Email: </span><a href="mailto:paulauguste.lacave@gmail.com">paulauguste.lacave@gmail.com</a>
-                            <br><span class="hidden-tablet">Téléphone: </span>06 08 02 99 46
+                            <br><span class="hidden-tablet">Tï¿½lï¿½phone: </span>06 08 02 99 46
                         </p>
                         
                     </div><!-- end .cv-item -->
@@ -110,11 +110,11 @@
                     
                     <div class="cv-item">
                         
-                        <p>Passioné d'informatique, ma passion pour le jeu-vidéo m'a poussé à me spécialiser dans ce domaine.
-                           <br>J'aime apporter des solutions technologiques en me tenant informé des dernières avancées.
+                        <p>Passionï¿½ d'informatique, ma passion pour le jeu-vidï¿½o m'a poussï¿½ ï¿½ me spï¿½cialiser dans ce domaine.
+                           <br>J'aime apporter des solutions technologiques en me tenant informï¿½ des derniï¿½res avancï¿½es.
                         </p>
-                        <p class="last">En plus de ma passion pour l'informatique, j'apporte un grand intêrét pour la musique.
-                           <br>Je compose moi même via le logiciel Ableton Live.
+                        <p class="last">En plus de ma passion pour l'informatique, j'apporte un grand intï¿½rï¿½t pour la musique.
+                           <br>Je compose moi mï¿½me via le logiciel Ableton Live.
                         </p>
                         
                     </div><!-- end .cv-item -->
