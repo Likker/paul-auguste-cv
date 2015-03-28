@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
     
     <!-- /// FontAwesome Icons 4.0.3 ////////  -->
-    <link rel="stylesheet" href="_layout/css/fontawesome/font-awesome.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     
 	<!-- /// Modernizr ////////  -->
     <script src="_layout/js/modernizr-2.6.2.min.js"></script>
@@ -81,7 +81,7 @@
                         
                         <p class="last">
                             <span class="hidden-tablet">Email: </span><a href="mailto:paulauguste.lacave@gmail.com">paulauguste.lacave@gmail.com</a>
-                            <br><span class="hidden-tablet">T�l�phone: </span>06 08 02 99 46
+                            <br><span class="hidden-tablet">T&eacute;l&eacute;phone: </span>06 08 02 99 46
                         </p>
                         
                     </div><!-- end .cv-item -->
@@ -110,11 +110,11 @@
                     
                     <div class="cv-item">
                         
-                        <p>Passion� d'informatique, ma passion pour le jeu-vid�o m'a pouss� � me sp�cialiser dans ce domaine.
-                           <br>J'aime apporter des solutions technologiques en me tenant inform� des derni�res avanc�es.
+                        <p>Passion&eacute; d'informatique, ma passion pour le jeu-vid&eacute;o m'a pouss&eacute; &agrave; me sp&eacute;cialiser dans ce domaine.
+                           <br>J'aime apporter des solutions technologiques en me tenant inform&eacute; des derni&egrave;res avanc&eacute;es.
                         </p>
-                        <p class="last">En plus de ma passion pour l'informatique, j'apporte un grand int�r�t pour la musique.
-                           <br>Je compose moi m�me via le logiciel Ableton Live.
+                        <p class="last">En plus de ma passion pour l'informatique, j'apporte un grand int&eacute;r&eacute;t pour la musique.
+                           <br>Je compose moi m&ecirc;me via le logiciel Ableton Live.
                         </p>
                         
                     </div><!-- end .cv-item -->
@@ -133,49 +133,90 @@
                     
                 </div><!-- end .span3 -->
                 <div class="span9">
-                    
+
                     <div class="cv-item">
-                        
-                        <p class="period">July 2008 - Present</p>
-                        
-                        <h3><strong>Senior Project Manager</strong></h3>
-                        <h4>Web Design Studios, Full-Time</h4>
-                        
+
+                        <p class="period">F&eacute;vrier 2015 - Pr&eacute;sent</p>
+
+                        <h3><strong>Path of gladiators </FONT> </a></strong></h3>
+                        <h4>D&eacute;veloppeur réseau Unity 3D</h4>
+
                         <br>
-                        
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, magna et bibendum 
-                        malesuada, purus augue suscipit dolor, vitae fringilla dui nibh non lectus. Curabitur in 
-                        pellentesque tortor. Nunc posuere vestibulum augue, quis posuere orci blandit vitae. Suspendisse 
-                        dignissim elit dui, ac dictum felis interdum nec. </p>
-                        
+
+                        <p>EIP, jeu-vid&eacute;o d'un MOBA multijoueurs.</p>
+
                         <ul class="fill-circle">
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                            <li>Vivamus vitae libero odio, eu interdum elit</li>
-                            <li>Donec dignissim purus vel leo accumsan interdum</li>
-                            <li>Proin sit amet massa mi, in volutpat ante</li>
+                            <li>Réseau</li>
+                            <li>Protocal Buffer</li>
                         </ul>
-                        
+
                     </div><!-- end .cv-item -->
-                    
+
+
                     <div class="cv-item">
-                        
-                        <p class="period">April 2007 - May 2008</p>
-                        
-                        <h3><strong>Front End Developer</strong></h3>
-                        <h4>Acme Advertising, Full-Time</h4>
-                        
+
+                        <p class="period">D&eacute;cembre 2014 - F&eacute;vrier 2015</p>
+
+                        <h3><strong>The Cube </FONT> </a></strong></h3>
+                        <h4>D&eacute;veloppeur Unity 3D & Sound Designer</h4>
+
                         <br>
-                        
-                        <p>Curabitur in pellentesque tortor. Nunc posuere vestibulum augue, quis posuere orci blandit 
-                        vitae. Suspendisse dignissim elit dui, ac dictum felis interdum nec. </p>
-                        
+
+                        <p>Projet &eacute;tudiant d'un jeu vid&eacute;o de plate-forme et r&eacute;flexion.
+                            Le jeu est compos&eacute; de 8 niveaux progressifs, d'une histoire et d'un univers sonore.</p>
+
                         <ul class="fill-circle">
-                            <li>Vivamus vitae libero odio, eu interdum elit</li>
-                            <li>Donec dignissim purus vel leo accumsan interdum</li>
-                            <li>Proin sit amet massa mi, in volutpat ante</li>
+                            <li>PopcornFX</li>
+                            <li>Ableton Live</li>
                         </ul>
-                        
+
                     </div><!-- end .cv-item -->
+
+                    <div class="cv-item">
+
+                        <p class="period">13 Octobre 2014 - 19 Octobre 2014</p>
+
+                        <h3><strong> <a href="_projets/arkanoid">Arkanoid</a></strong></h3>
+                        <h4>D&eacute;veloppeur Unity 3D </h4>
+
+                        <br>
+
+                        <p>Jeu r&eacute;alis&eacute; pendant la piscine du GameDevLab d'Epitech. Version revisit&eacute; du c&eacute;l&egrave;bre casse-briques.
+                            Le jeu est jouable via ce <a href="_projets/arkanoid"> LIEN </a>.
+                        </p>
+
+                        <ul class="fill-circle">
+                            <li>Int&eacute;gration graphique</li>
+                            <li>D&eacute;veloppement mobile</li>
+                            <li>R&D</li>
+                            <li>Leap Motion</li>
+                        </ul>
+
+                    </div><!-- end .cv-item -->
+
+
+                    <div class="cv-item">
+
+                        <p class="period">Juillet 2013 - D&eacute;cembre 2013</p>
+
+                        <h3><strong>Stagiaire <a href="https://www.popcornfx.com/"><FONT COLOR="#818181"> Persistant Studios </FONT> </a></strong></h3>
+                        <h4>D&eacute;veloppeur Unity 3D </h4>
+
+                        <br>
+
+                        <p>Pendant cette p&eacute;riode, j'ai pu travailler sur diff&eacute;rents projets. Ce stage m'a permis de renforcer
+                            mes bases en C# et sur Unity 3D.</p>
+
+                        <ul class="fill-circle">
+                            <li>Int&eacute;gration graphique</li>
+                            <li>D&eacute;veloppement mobile</li>
+                            <li>R&D</li>
+                            <li>Leap Motion</li>
+                        </ul>
+
+                    </div><!-- end .cv-item -->
+
+
                     
                 </div><!-- end .span9 -->
             </div><!-- end .cv-section -->
