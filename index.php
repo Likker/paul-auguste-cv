@@ -26,12 +26,8 @@
     <link rel="stylesheet" href="_layout/js/magnificpopup/magnific-popup.css">
     
     <!-- /// Template Skin CSS ////////  -->
-	<!-- <link rel="stylesheet" href="_layout/css/skins/default.css"> -->
+
     <link rel="stylesheet" href="_layout/css/skins/blue.css">
-    <!-- <link rel="stylesheet" href="_layout/css/skins/red.css"> -->
-    <!-- <link rel="stylesheet" href="_layout/css/skins/purple.css"> -->
-    <!-- <link rel="stylesheet" href="_layout/css/skins/green.css"> -->
-    <!-- <link rel="stylesheet" href="_layout/css/skins/yellow.css"> -->
     
     <!-- /// Google Fonts ////////  -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
@@ -56,6 +52,7 @@
                     
                     <div class="cv-section-title">
                         
+                        <!-- Profil Pic -->
                          <img src="" alt="">
                         
                         <h1>
@@ -71,32 +68,20 @@
                     <div class="cv-item">
                         
                         <div class="social-media fixed">
-                           <!-- 
+  
+                            <a href="https://soundcloud.com/dew2bot/" class="soundcloud-icon social-icon">
+                                 <i class="fa fa-soundcloud"></i>
+                            </a>
 
-                            <a href="#" class="facebook-icon social-icon">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                            
-                            <a href="#" class="twitter-icon social-icon">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                            
-                           -->
-
-                            <a href="#" class="googleplus-icon social-icon">
-                                <i class="fa fa-google-plus"></i>
-                            </a>
-                            
-                            <a href="#" class="linkedin-icon social-icon">
+                            <a href="https://www.linkedin.com/profile/view?id=252127800&trk=hp-identity-name" class="linkedin-icon social-icon">
                                 <i class="fa fa-linkedin"></i>
                             </a>
                             
                         </div>
                         
                         <p class="last">
-                            <span class="hidden-tablet">Email: </span><a href="mailto:john@sitename.com">john@sitename.com</a>
-                            <br><span class="hidden-tablet">Phone: </span>(123) 456-7890
-                            <br><span class="hidden-tablet">Web: </span><a href="#">www.johnsmithsite.com</a>
+                            <span class="hidden-tablet">Email: </span><a href="mailto:paulauguste.lacave@gmail.com">paulauguste.lacave@gmail.com</a>
+                            <br><span class="hidden-tablet">Téléphone: </span>06 08 02 99 46
                         </p>
                         
                     </div><!-- end .cv-item -->
@@ -116,7 +101,7 @@
                     
                     <div class="cv-section-title">
                         
-                        <h2>Profesional Profile</h2>
+                        <h2>Profil Professionel</h2>
                         
                     </div><!-- end .cv-section-title -->
                     
@@ -125,15 +110,12 @@
                     
                     <div class="cv-item">
                         
-                        <p>Laecenas ac diam vel leo fringilla elementum. Quisque mi sapien, vulputate at felis in, rhoncus 
-                        fringilla sem. Nunc non magna volutpat, bibendum magna ac, laoreet lectus. Vivamus et nibh ac 
-                        arcu lobortis elementum eget sed mi. Pellentesque auctor ligula a ante tempus interdum. Praesent 
-                        sed luctus ligula. Nam varius, mauris vitae accumsan pharetra, enim lacus eleifend nibh, in mattis 
-                        enim magna in arcu. </p>
-                        
-                        <p class="last">Donec auctor lacus eu diam congue tempor. Aliquam gravida nec turpis at sagittis. Proin molestie 
-                        enim non nisi porttitor posuere. Ut blandit justo at sapien iaculis rutrum. Quisque vel diam at mi 
-                        mattis tincidunt nec id odio. </p>
+                        <p>Passioné d'informatique, ma passion pour le jeu-vidéo m'a poussé à me spécialiser dans ce domaine.
+                           <br>J'aime apporter des solutions technologiques en me tenant informé des dernières avancées.
+                        </p>
+                        <p class="last">En plus de ma passion pour l'informatique, j'apporte un grand intêrét pour la musique.
+                           <br>Je compose moi même via le logiciel Ableton Live.
+                        </p>
                         
                     </div><!-- end .cv-item -->
                     
@@ -145,7 +127,7 @@
                     
                     <div class="cv-section-title">
                         
-                        <h2>Work Experience</h2>
+                        <h2>Experience</h2>
                         
                     </div><!-- end .cv-section-title -->
                     
