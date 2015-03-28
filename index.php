@@ -27,7 +27,7 @@
     
     <!-- /// Template Skin CSS ////////  -->
 	<!-- <link rel="stylesheet" href="_layout/css/skins/default.css"> -->
-    <!-- <link rel="stylesheet" href="_layout/css/skins/blue.css"> -->
+    <link rel="stylesheet" href="_layout/css/skins/blue.css">
     <!-- <link rel="stylesheet" href="_layout/css/skins/red.css"> -->
     <!-- <link rel="stylesheet" href="_layout/css/skins/purple.css"> -->
     <!-- <link rel="stylesheet" href="_layout/css/skins/green.css"> -->
