@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
     
     <!-- /// FontAwesome Icons 4.0.3 ////////  -->
-	<link rel="stylesheet" href="_layout/css/fontawesome/font-awesome.min.css">
+	<link rel="stylesheet" href="_layout/css/fontawesome/font-awesome.css">
     
 	<!-- /// Modernizr ////////  -->
     <script src="_layout/js/modernizr-2.6.2.min.js"></script>
