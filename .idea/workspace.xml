@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87917282-65a1-401c-b5e0-b4e5b7672e09" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\Compressed\Test.datagz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\Compressed\Test.html.memgz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\Compressed\Test.jsgz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\Compressed\UnityConfig.jsgz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\Compressed\fileloader.jsgz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\UnityProgress.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\default-cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\fullbar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\fullscreen.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\loadingbar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\progresslogo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\TemplateData\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Paulo\Documents\GitHub\paul-auguste-cv\_projets\arkanoid2\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_projets/arkanoid/index.html" afterPath="$PROJECT_DIR$/_projets/arkanoid/index.html" />
-    </list>
+    <list default="true" id="87917282-65a1-401c-b5e0-b4e5b7672e09" name="Default" comment="" />
     <ignored path="paul-auguste-cv.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
